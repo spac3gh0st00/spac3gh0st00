@@ -1,5 +1,4 @@
-## Hi there 👋
-@@ -1,29 +1,29 @@
+
 # Hello, I'm Erik 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -53,7 +52,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Detection Lab
 - SOC Automation Project
 - Test Project
+
 <!--
+## Hi there 👋
 **spac3gh0st00/spac3gh0st00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
