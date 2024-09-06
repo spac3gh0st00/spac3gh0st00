@@ -6,14 +6,14 @@
 I am an application engineer with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) to further or Malware Analysis.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) or a Malware Analysis environment.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | EDR Implementation and Log Analysis          | <a href="https://github.com/spac3gh0st00/SOC-Analyst-Lab/tree/main">SOC Analyst Lab</a>|
-| Sysmon Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Sysmon Implementation and Log Analysis          | <a href="https://github.com/spac3gh0st00/SOC-Analyst-Lab/tree/main">SOC Analyst Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -21,7 +21,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link]
+VMware Workstation Pro: For setting up Linux and Windows virtual machines.
+Sysmon: Provides detailed Windows telemetry.
+Sliver C2: Command and Control server for testing adversarial scenarios.
+LimaCharlie EDR: Endpoint Detection and Response for telemetry and automated rules.
 ### Network
 <div>
 My journey in computer science has led me to develop a passion for cybersecurity
