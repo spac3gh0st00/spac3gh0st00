@@ -1,6 +1,6 @@
 
 # Hello, I'm Erik 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/erik-quihuis-82417010a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Introduction
 I am an application engineer with a profound interest in technology and a dedication to solving complex problems.
