@@ -9,7 +9,6 @@ I am an application engineer with a profound interest in technology and a dedica
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) to further or Malware Analysis.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
