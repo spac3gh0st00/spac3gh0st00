@@ -3,19 +3,14 @@
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction]
-[Brief Introduction - Remove this afterwards]
-
 I am an application engineer with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 [Provide Objective]
-[Provide Objective - Remove this afterwards]]
-
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC).
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project]
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -29,8 +24,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link]
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
 ### Network
 <div>
 My journey in computer science has led me to develop a passion for cybersecurity
@@ -38,7 +31,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link]
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-CISSP-0052CC?style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
