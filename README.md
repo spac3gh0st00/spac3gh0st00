@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/spac3gh0st00/SOC-Analyst-Lab/tree/main">SOC Analyst Lab</a>|
+| EDR Implementation and Log Analysis          | <a href="https://github.com/spac3gh0st00/SOC-Analyst-Lab/tree/main">SOC Analyst Lab</a>|
 | Sysmon Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
