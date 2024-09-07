@@ -21,10 +21,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-VMware Workstation Pro: For setting up Linux and Windows virtual machines.
-Sysmon: Provides detailed Windows telemetry.
-Sliver C2: Command and Control server for testing adversarial scenarios.
-LimaCharlie EDR: Endpoint Detection and Response for telemetry and automated rules.
+- VMware Workstation Pro: For setting up Linux and Windows virtual machines.
+- Sysmon: Provides detailed Windows telemetry.
+- Sliver C2: Command and Control server for testing adversarial scenarios.
+- LimaCharlie EDR: Endpoint Detection and Response for telemetry and automated rules.
 ### Network
 <div>
 My journey in computer science has led me to develop a passion for cybersecurity
