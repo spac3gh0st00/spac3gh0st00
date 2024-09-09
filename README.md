@@ -15,10 +15,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | EDR Implementation and Log Analysis          | <a href="https://github.com/spac3gh0st00/SOC-Analyst-Lab/tree/main">SOC Analyst Lab</a>|
 | Sysmon Implementation and Log Analysis          | <a href="https://github.com/spac3gh0st00/SOC-Analyst-Lab/tree/main">SOC Analyst Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | link-to-lab-tbd |
+| Incident Response Planning and Execution      | link-to-lab-tbd|
+| Case Management with TheHive                  | link-to-lab-tbd|
+| Scripting and Automation for Threat Mitigation | link-to-lab-tbd|
+| Malware Analysis                               | link-to-lab-tbd|
 
 ## Tools
 - VMware Workstation Pro: For setting up Linux and Windows virtual machines.
