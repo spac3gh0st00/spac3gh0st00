@@ -27,6 +27,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Sysmon: Provides detailed Windows telemetry.
 - Sliver C2: Command and Control server for testing adversarial scenarios.
 - LimaCharlie EDR: Endpoint Detection and Response for telemetry and automated rules.
+- 
 ### Network
 <div>
 My journey in computer science has led me to develop a passion for cybersecurity
@@ -46,6 +47,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href=https://github.com/spac3gh0st00/SOC-Analyst-Lab/tree/main>SOC Analyst Lab</a>
 - Detection Lab
 - SOC Automation Project
+- Malware Analysis
+- Incident Response
 - Test Project
 
 <!--
