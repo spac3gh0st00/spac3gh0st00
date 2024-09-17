@@ -21,6 +21,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | link-to-lab-tbd|
 | Scripting and Automation for Threat Mitigation | link-to-lab-tbd|
 | Malware Analysis                               | link-to-lab-tbd|
+| HTML & CSS                               | <a href="https://spac3gh0st00.github.io/magic-word"> Say the magic word|
 
 ## Tools
 - VMware Workstation Pro: For setting up Linux and Windows virtual machines.
