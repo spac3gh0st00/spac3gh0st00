@@ -3,10 +3,10 @@
 <a href="https://www.linkedin.com/in/erik-quihuis-82417010a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Introduction
-I am an application engineer with a profound interest in technology and a dedication to solving complex problems.
+I am an application engineer with a profound interest in technology and a dedication to solving complex problems. 
 
 ## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) or a Malware Analysis environment.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as an analyst/engineer or a Malware Analysis environment. As a dedicated cybersecurity professional, I have committed myself to continuous learning and skill development to stay ahead of evolving cyber threats. 
 
 ## Skills
 
