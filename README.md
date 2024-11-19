@@ -6,7 +6,7 @@
 I am an application engineer with a profound interest in technology and a dedication to solving complex problems. 
 
 ## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as an analyst/engineer or a Malware Analysis environment. 
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as an analyst/engineer or jump into a Malware Analysis environment. 
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -27,10 +27,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Sysmon: Provides detailed Windows telemetry.
 - Sliver C2: Command and Control server for testing adversarial scenarios.
 - LimaCharlie EDR: Endpoint Detection and Response for telemetry and automated rules.
+- OllyDbg
+- Process Explorer/ Process Monitor/ Sysinternals 
+- Ghidra
+- petstudio
+- dnySpy
 - 
 ### Network
 <div>
-My journey in computer science has led me to develop a passion for cybersecurity. As a dedicated cybersecurity professional, I have committed myself to continuous learning and skill development in order to stay ahead of evolving cyber threats. Throughout my journey, I have leveraged a variety of high-quality resources to build a strong foundation in security operations and threat detection.
+As a dedicated cybersecurity professional, I have committed myself to continuous learning and skill development in order to stay ahead of evolving cyber threats. Throughout my journey, I have leveraged a variety of high-quality resources to build a strong foundation in security operations and threat detection.
 </div>
 
 ## Certifications
