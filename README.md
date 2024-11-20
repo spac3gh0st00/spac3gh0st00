@@ -11,11 +11,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Cybersecurity Threat Intelligence Dashboard   | <a href="https://spac3gh0st00.github.io/Cybersecurity-Threat-Intelligence-Dashboard/">CTI Dashboard</a>|
 | EDR Implementation and Log Analysis          | <a href="https://github.com/spac3gh0st00/SOC-Analyst-Lab/tree/main">SOC Analyst Lab</a>|
 | Sysmon Implementation and Log Analysis          | <a href="https://github.com/spac3gh0st00/SOC-Analyst-Lab/tree/main">SOC Analyst Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Flipper Zero BadUSB                           | <a href="https://github.com/spac3gh0st00/hello-world">hello-world|
-| Security Automation with Shuffle SOAR         | link-to-lab-tbd |
+| Security Automation with Shuffle SOAR         | link-to-lab-tbd|
 | Incident Response Planning and Execution      | link-to-lab-tbd|
 | Case Management with TheHive                  | link-to-lab-tbd|
 | Scripting and Automation for Threat Mitigation | link-to-lab-tbd|
