@@ -52,6 +52,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href=https://github.com/spac3gh0st00/SOC-Analyst-Lab/tree/main>SOC Analyst Lab</a>
+- <a href="https://spac3gh0st00.github.io/Cybersecurity-Threat-Intelligence-Dashboard/">CTI Dashboard</a>|
 - Detection Lab
 - SOC Automation Project
 - Malware Analysis
