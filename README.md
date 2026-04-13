@@ -11,6 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| KaliBot — AI-Powered Bug Bounty Lab           | <a href="https://github.com/spac3gh0st00/Kali-MCP-Bounty-Lab/">Kali-MCP-Bounty-Lab</a>|
 | Cybersecurity Threat Intelligence Dashboard   | <a href="https://spac3gh0st00.github.io/Cybersecurity-Threat-Intelligence-Dashboard/">CTI Dashboard</a>|
 | EDR Implementation and Log Analysis          | <a href="https://github.com/spac3gh0st00/SOC-Analyst-Lab/tree/main">SOC Analyst Lab</a>|
 | Sysmon Implementation and Log Analysis          | <a href="https://github.com/spac3gh0st00/SOC-Analyst-Lab/tree/main">SOC Analyst Lab</a>|
@@ -51,6 +52,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
+- <a href="https://github.com/spac3gh0st00/Kali-MCP-Bounty-Lab/">KaliBot — AI-Powered Bug Bounty Lab</a>|
 - <a href=https://github.com/spac3gh0st00/SOC-Analyst-Lab/tree/main>SOC Analyst Lab</a>
 - <a href="https://spac3gh0st00.github.io/Cybersecurity-Threat-Intelligence-Dashboard/">CTI Dashboard</a>
 - Detection Lab
