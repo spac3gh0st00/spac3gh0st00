@@ -66,7 +66,7 @@
 |---|---|---|
 | [**Kali-MCP-Bounty-Lab-Installer**](https://github.com/spac3gh0st00/Kali-MCP-Bounty-Lab-Installer) | GUI wizard (customtkinter) for one-click MCP + Kali Docker lab setup. Includes Discord bot & health monitor. | 🟢 Active |
 | [**Kali-MCP-Bounty-Lab**](https://github.com/spac3gh0st00/Kali-MCP-Bounty-Lab) | Manual setup docs, platform-specific scripts, and landing page for the full MCP lab architecture | 🟢 Active |
-| [**CTI Dashboard**](https://spac3gh0st00.github.io/Cybersecurity-Threat-Intelligence-Dashboard/) | Live cybersecurity threat intelligence dashboard | 🟡 In progress |
+| [**CTI Dashboard**](https://radar.spac3gh0st.lol/) | Live cybersecurity threat intelligence dashboard | ✅ Complete |
 | [**SOC Analyst Lab**](https://github.com/spac3gh0st00/SOC-Analyst-Lab/tree/main) | EDR + Sysmon deployment, log analysis, and incident response exercises | 🟢 Active |
 | [**Flipper Zero BadUSB**](https://github.com/spac3gh0st00/hello-world) | BadUSB payload research with Flipper Zero | ✅ Complete |
 | Detection Lab | Network traffic monitoring & attack detection | 🔵 Coming soon |
