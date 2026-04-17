@@ -69,6 +69,7 @@
 | [**CTI Dashboard**](https://radar.spac3gh0st.lol/) | Live cybersecurity threat intelligence dashboard | ✅ Complete |
 | [**SOC Analyst Lab**](https://github.com/spac3gh0st00/SOC-Analyst-Lab/tree/main) | EDR + Sysmon deployment, log analysis, and incident response exercises | 🟢 Active |
 | [**Flipper Zero BadUSB**](https://github.com/spac3gh0st00/hello-world) | BadUSB payload research with Flipper Zero | ✅ Complete |
+| [**Fresh From the Farm to Your Table**](https://markets.spac3gh0st.lol/) | Local Farmers Market Finder | ✅ Complete |
 | Detection Lab | Network traffic monitoring & attack detection | 🔵 Coming soon |
 | SOC Automation | Shuffle SOAR + TheHive + case management pipeline | 🔵 Coming soon |
 | Malware Analysis Lab | Static/dynamic analysis workflows for common malware families | 🔵 Coming soon |
