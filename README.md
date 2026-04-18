@@ -23,7 +23,7 @@
 ```bash
 [✓] Status: Actively researching & building
 [✓] Focus:  Bug bounty automation | AI agent tooling | SOC/Detection engineering
-[~] Next:   SOC Tier-1 Analyst / Malware Analyst role
+[~] Next:   SOC Engineer / Malware Analyst role
 ```
 
 ---
