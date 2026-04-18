@@ -7,7 +7,7 @@
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-quihuis-82417010a)
-[![GitHub](https://img.shields.io/badge/GitHub-spac3gh0st00-BF5FFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spac3gh0st00)
+[![GitHub](https://img.shields.io/badge/GitHub-spac3gh0st-BF5FFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spac3gh0st00)
 
 </div>
 
