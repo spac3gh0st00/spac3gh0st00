@@ -73,7 +73,7 @@
 | Detection Lab | Network traffic monitoring & attack detection | 🔵 Coming soon |
 | SOC Automation | Shuffle SOAR + TheHive + case management pipeline | 🔵 Coming soon |
 | Malware Analysis Lab | Static/dynamic analysis workflows for common malware families | 🔵 Coming soon |
-
+| InGen Corp restricted-access terminal | <div align="center"><strong><a href="https://secrets.spac3gh0st.lol/">→ Enter if you dare ←</a></strong></div> | |
 ---
 
 ## `> cat certs.txt`
