@@ -75,7 +75,7 @@
 | Detection Lab | Network traffic monitoring & attack detection | 🔵 Coming soon |
 | SOC Automation | Shuffle SOAR + TheHive + case management pipeline | 🔵 Coming soon |
 | Malware Analysis Lab | Static/dynamic analysis workflows for common malware families | 🔵 Coming soon |
-| InGen Corp restricted-access terminal | **[→ Enter if you dare ←](https://secrets.spac3gh0st.lol/)** |  |
+| InGen Corp restricted-access terminal | <p align="center">**[→ Enter if you dare ←](https://secrets.spac3gh0st.lol/)**</p> | |
 
 ---
 
@@ -106,12 +106,12 @@
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────┐
-│  "The quieter you become, the more you can hear."   │
-│                         — Kali Linux motto          │
-└─────────────────────────────────────────────────────┘
-```
+<p>
+<code>┌─────────────────────────────────────────────────────┐</code><br>
+<code>│  "The quieter you become, the more you can hear."  │</code><br>
+<code>│                    — Kali Linux motto              │</code><br>
+<code>└─────────────────────────────────────────────────────┘</code>
+</p>
 
 [![Visitor Count](https://komarev.com/ghpvc/?username=spac3gh0st00&color=BF5FFF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/spac3gh0st00)
 
