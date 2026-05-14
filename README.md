@@ -28,33 +28,33 @@
 
 ## `> ls ./skills/`
 
-### 🛡️ Offensive Security
-
 <div align="center">
+
+### 🛡️ Offensive Security
 
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/) [![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp) [![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/) [![Sliver C2](https://img.shields.io/badge/Sliver_C2-BF5FFF?style=for-the-badge&logo=ghost&logoColor=white)](https://github.com/BishopFox/sliver)
 
 </div>
 
-### 🔍 Detection & Response
-
 <div align="center">
+
+### 🔍 Detection & Response
 
 [![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon) [![LimaCharlie](https://img.shields.io/badge/LimaCharlie_EDR-1F1F1F?style=for-the-badge&logo=datadog&logoColor=BF5FFF)](https://limacharlie.io/) [![TheHive](https://img.shields.io/badge/TheHive-FECC00?style=for-the-badge&logo=hive&logoColor=black)](https://thehive-project.org/) [![Shuffle SOAR](https://img.shields.io/badge/Shuffle_SOAR-7B2FBE?style=for-the-badge&logo=zapier&logoColor=white)](https://shuffler.io/)
 
 </div>
 
-### 🤖 AI & Automation
-
 <div align="center">
+
+### 🤖 AI & Automation
 
 [![Claude](https://img.shields.io/badge/Anthropic_Claude-D4A574?style=for-the-badge&logo=anthropic&logoColor=black)](https://www.anthropic.com/) [![MCP](https://img.shields.io/badge/Model_Context_Protocol-BF5FFF?style=for-the-badge&logo=protocol&logoColor=white)](https://modelcontextprotocol.io/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 </div>
 
-### 🔬 Malware Analysis
-
 <div align="center">
+
+### 🔬 Malware Analysis
 
 [![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=white)](https://ghidra-sre.org/) [![OllyDbg](https://img.shields.io/badge/OllyDbg-1F1F1F?style=for-the-badge&logo=reversinglabs&logoColor=BF5FFF)](http://www.ollydbg.de/) [![PEStudio](https://img.shields.io/badge/PEStudio-222222?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.winitor.com/) [![dnSpy](https://img.shields.io/badge/dnSpy-68217A?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/dnSpy/dnSpy)
 
