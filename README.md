@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-quihuis-82417010a) [![GitHub](https://img.shields.io/badge/GitHub-spac3gh0st-BF5FFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spac3gh0st00)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-quihuis-82417010a) [![GitHub](httpsh://img.shields.io/badge/GitHub-spac3gh0st-BF5FFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spac3gh0st00)
 
 </div>
 
@@ -93,7 +93,9 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spac3gh0st00&show_icons=true&theme=midnight-purple&bg_color=0D1117&title_color=BF5FFF&text_color=E8CCFF&icon_color=BF5FFF&border_color=BF5FFF&hide_border=false)](https://github.com/spac3gh0st00) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spac3gh0st00&layout=compact&theme=midnight-purple&bg_color=0D1117&title_color=BF5FFF&text_color=E8CCFF&border_color=BF5FFF)](https://github.com/spac3gh0st00)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=spac3gh0st00&bg_color=0D1117&color=BF5FFF&line=BF5FFF&point=E8CCFF&area=true&hide_border=false)](https://github.com/spac3gh0st00)
+
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=spac3gh0st00&theme=midnight_purple)](https://github.com/spac3gh0st00) [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spac3gh0st00&theme=midnight_purple)](https://github.com/spac3gh0st00)
 
 <!-- ✅ FIXED: Changed from github-readme-streak-stats.herokuapp.com (DEAD) to streak-stats.demolab.com -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=spac3gh0st00&theme=midnight-purple&background=0D1117&border=BF5FFF&stroke=BF5FFF&ring=BF5FFF&fire=FF6BFF&currStreakNum=FFFFFF&sideNums=E8CCFF&currStreakLabel=BF5FFF&sideLabels=E8CCFF&dates=7744AA)](https://git.io/streak-stats)
