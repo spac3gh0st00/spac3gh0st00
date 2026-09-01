@@ -100,6 +100,8 @@
 <!-- ✅ FIXED: Changed from github-readme-streak-stats.herokuapp.com (DEAD) to streak-stats.demolab.com -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=spac3gh0st00&theme=midnight-purple&background=0D1117&border=BF5FFF&stroke=BF5FFF&ring=BF5FFF&fire=FF6BFF&currStreakNum=FFFFFF&sideNums=E8CCFF&currStreakLabel=BF5FFF&sideLabels=E8CCFF&dates=7744AA)](https://git.io/streak-stats)
 
+[![WDGWars](https://wdgwars.pl/card/3906-TKEGCFKF.svg)](https://wdgwars.pl/)
+
 </div>
 
 ---
